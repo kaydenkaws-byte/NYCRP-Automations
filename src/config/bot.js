@@ -116,10 +116,10 @@ export const botConfig = {
         ended: "#ED4245",
       },
       ticket: {
-        open: "#57F287",
-        claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#89CFF0",
+        claimed: "#008000",
+        closed: "#FF0000",
+        pending: "#FFFF00",
       },
       economy: "#F1C40F",
       birthday: "#E91E63",
@@ -136,7 +136,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "NYCRP Automations",
       // Footer icon URL (null = no icon).
       icon: null,
     },
